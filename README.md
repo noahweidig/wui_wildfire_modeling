@@ -1,7 +1,7 @@
 # Code and Data for:
 ## "Fire at the fringe: drivers of large wildfires in the wildland-urban interface of the eastern United States"
 
-[![DOI:10.1071/WF24110](https://img.shields.io/badge/DOI-10.1071%2FWF24110-B31B1B.svg)](https://doi.org/10.1071/WF24110)
+[![placeholder](https://img.shields.io/badge/DOI-10.1071%2FWF24110-B31B1B.svg)](https://doi.org/)
 
 Noah C. Weidig<sup>1</sup>, Carissa L. Wonkka<sup>1</sup>, Michaella A. Ivey<sup>1</sup>, Daniel J. Johnson<sup>2</sup>, and Victoria M. Donovan<sup>1</sup>.
 
